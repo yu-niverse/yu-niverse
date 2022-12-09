@@ -1,4 +1,4 @@
-![](src/banner.gif)
+![](src/banner2.gif)
 
 ## Hey, $~$ I'm Angel
 
