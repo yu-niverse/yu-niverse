@@ -1,6 +1,6 @@
 ![](src/banner2.gif)
 
-## Hey, $~$ I'm Angel
+## Hey, I'm Angel
 
 ### Nice to meet you !
 
