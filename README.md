@@ -12,9 +12,9 @@
 - Reach me at <a href="mailto:chiehyu.cs09@nycu.edu.tw" style="color: #AF8F90;">chiehyu.cs09@nycu.edu.tw</a>
 
 ### <img src="src/pin.png" style="width:28px;height:28px;">   Languages and Tools
-- C, C++, Python
-- HTML, CSS, Javascript, Vue
-- PHP, MySQL
+- Golang, C, C++, Python
+- HTML, CSS, Javascript, React
+- Node.js, Express, PHP, SQL
 - Notion, Canva, Figma
 
 ### <img src="src/pin.png" style="width:28px;height:28px;">   Notes to Share
