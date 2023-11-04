@@ -12,7 +12,7 @@
 ### Languages and Tools
 - Golang, C, C++, Python
 - HTML, CSS, Javascript, React
-- Node.js, Express, PHP, SQL
+- Gin, Node.js, Express, PHP, SQL
 - Notion, Canva, Figma
 
 ### Notes to Share
