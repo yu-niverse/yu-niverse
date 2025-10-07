@@ -6,7 +6,7 @@
 - Majoring in Computer Science
 - Love to explore new technology
 - Enjoy coding to solve real-life problems
-- Reach me at <a href="mailto:chiehyu.cs09@nycu.edu.tw" style="color: #AF8F90;">chiehyu.cs09@nycu.edu.tw</a>
+- Reach me at <a href="mailto:chiehyu.cs@gmail.com" style="color: #AF8F90;">chiehyu.cs09@nycu.edu.tw</a>
 
 ### Languages and Tools
 - Golang, C, C++, Python
