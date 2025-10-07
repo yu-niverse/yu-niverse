@@ -3,7 +3,6 @@
 ### Nice to meet you !
 
 ### About Me
-- Undergraduate at National Yang Ming Chiao Tung University
 - Majoring in Computer Science
 - Love to explore new technology
 - Enjoy coding to solve real-life problems
